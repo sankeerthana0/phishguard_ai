@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+penv/
+venv/
+.env
+
+# Data - Do not commit large data files to Git
+data/processed/
+data/raw/
+
+# Models - Do not commit large model files to Git
+models/*.pt
+models/*.pkl
+
+# Temp files
+temp_screenshot.png
+*.log

@@ -1,0 +1,46 @@
+# Core ML & DL
+torch
+transformers
+accelerate # For efficient model loading
+scikit-learn
+Pillow
+
+# Vision & Web Scraping
+selenium
+webdriver-manager # To automatically manage browser drivers
+beautifulsoup4
+requests
+python-whois
+
+# Data & Performance
+pandas
+pyarrow # For Parquet file format
+
+# Application & MLOps
+streamlit
+fastapi
+uvicorn[standard] # Server for FastAPI
+shap
+matplotlib
+
+# For development
+notebook
+jupyterlab
+pylint
+black
+
+torch
+transformers
+accelerate
+scikit-learn
+Pillow
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+python-whois
+pandas
+pyarrow
+streamlit
+joblib
+tqdm
